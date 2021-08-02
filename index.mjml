@@ -1,0 +1,123 @@
+<mjml>
+  <mj-head>
+    <mj-attributes>
+      <!-- <mj-class name="font_color" color="green" font-size="100px" /> -->
+    </mj-attributes>
+    <mj-style inline="inline">
+      .red { color:#F74B4B; }
+    </mj-style>
+  </mj-head>
+  <mj-body width>
+    <mj-wrapper background-color="#F7FAFF" padding="50px 50px">
+      <mj-section border-top="1px solid #C2CFE3" border-left="1px solid #C2CFE3" border-right="1px solid #C2CFE3" padding-top="5px" padding-bottom="5px">
+        <mj-column background-color="#F7FAFF">
+          <mj-text align="center" font-size="9px" color="#09234F"  padding-top="5px" padding-bottom="5px">Pour être sûr(e) de recevoir nos prochaines communications, ajoutez notre adresse à la liste des expéditeurs autorisés.</mj-text>
+          <mj-text align="center" font-size="9px" color="#586D94"  padding-top="5px" padding-bottom="5px">Si vous ne visualisez pas cet e-mail, cliquez-ici.</mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section border-left="1px solid #C2CFE3" border-right="1px solid #C2CFE3" border-top="1px solid #C2CFE3"  background-color="#FFF">
+        <mj-column>
+          <mj-image width="350px" src="/images/Image_3.png" />
+        </mj-column>
+      </mj-section>
+      <mj-section border-left="1px solid #C2CFE3" border-right="1px solid #C2CFE3" background-color="#FFF" padding-top="0px">
+        <mj-column>
+          <mj-text align="center" font-size="10px" color="#F74B4B" padding-top="3px">1 mois gratuit sans engagement</mj-text>
+          <mj-text align="center" font-size="14px" color="#09234F" padding-top="3px" line-height="20px"><b>Gagnez du temps en facturant <br/>vite et bien vos clients !</b></mj-text>
+          <mj-text align="center" font-size="10px" color="#586D94" padding-top="3px">Pour chaque métier, une solution JePilote.</mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section border-left="1px solid #C2CFE3" border-right="1px solid #C2CFE3" background-color="#F74B4B">
+        <mj-column padding-top="50px">
+          <mj-text font-size="20px" color="#fff" padding-left="17%"><b>Utilisez JePilote gratuitement</b></mj-text>
+          <mj-text font-size="15px" color="#fff" padding-left="17%" padding-top="0px">pendant 2 mois</mj-text>
+          <mj-button background-color="#FFFFFF" href="#" color="#F74B4B" padding-left="0px">Je découvre</mj-button>
+        </mj-column>
+        <mj-column>
+          <mj-image width="200px" src="/images/Layer_5.png" />
+        </mj-column>
+      </mj-section>
+      <mj-section border-left="1px solid #C2CFE3" border-right="1px solid #C2CFE3" background-color="#FFF">
+        <mj-column width="30%">
+          <mj-image width="100px" src="/images/Mouse.png" />
+        </mj-column>
+        <mj-column>
+          <mj-text font-size="12px" color="#09234F" line-height="20px">Bonjour M. Dupont,<br>Vous êtes entrepreneur ?</mj-text>
+          <mj-text font-size="12px" color="#586D94" line-height="20px">Découvrez comment vous libérer du temps pour vous consacrer sur l’essentiel :<b>votre business</b>.<br>Voici la solution de gestion que vous a présenté votre conseiller BP :</mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section border-left="1px solid #C2CFE3" border-right="1px solid #C2CFE3" background-color="#FFF" padding-top="0">
+        <mj-column>
+          <mj-divider border-width="1px" border-color="#C2CFE3" width="50%"></mj-divider>
+        </mj-column>
+      </mj-section>
+      <mj-section border-left="1px solid #C2CFE3" border-right="1px solid #C2CFE3" background-color="#FFF" padding-top="0">
+        <mj-column>
+          <mj-text align="center" font-size="12px" color="#09234F">
+            Conçu par des experts comptables, vous avez
+          </mj-text>
+          <mj-text align="center" font-size="12px" color="#09234F" padding-top="0">l’assurance d’avoir unegestion «
+            <span class="red"><b>commerciale</b></span> »
+          </mj-text>
+          <mj-text align="center" font-size="12px" color="#09234F" line-height="20px" padding-top="0">
+            rapide et efficace respectant les dernières<br>
+            règlementations :
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section border-radius="50px" padding-left="50px" padding-right="50px" border-left="1px solid #C2CFE3" border-right="1px solid #C2CFE3" background-color="#FFF">
+        <mj-column border="1px solid #C2CFE3" width="30%"><mj-raw> &nbsp; </mj-raw>
+          <mj-image width="30px" src="/images/Doc.png"/>
+          <mj-text align="center" font-size="12px" color="#586D94">Vos devis et factures simples et personnalisables, votre image</mj-text>
+        </mj-column>
+        <mj-column width="15px">
+        </mj-column>
+        <mj-column border="1px solid #C2CFE3" width="30%"><mj-raw> &nbsp; </mj-raw>
+          <mj-image width="35px" src="/images/Calculator.png" />
+          <mj-text align="center" font-size="12px" color="#586D94">Une gestion de vos dépenses en temps réel temps réel </mj-text>
+        </mj-column>
+        <mj-column width="15px">
+        </mj-column>
+        <mj-column border="1px solid #C2CFE3" width="30%"><mj-raw> &nbsp; </mj-raw>
+          <mj-image width="60px" src="/images/Shake.png" />
+          <mj-text align="center" font-size="12px" color="#586D94">Des indicateurs clairs pour prendre les bonnes décisions</mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section border-left="1px solid #C2CFE3" border-right="1px solid #C2CFE3" background-color="#FFF">
+        <mj-column>
+          <mj-text align="center" font-size="12px" color="#09234F" line-height="20px">C’est LA solution pour gagner du temps à consacrer<br> à votre entreprise.</mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section border-left="1px solid #C2CFE3" border-right="1px solid #C2CFE3" background-color="#FFF" padding-top="0">
+        <mj-column>
+          <mj-divider border-width="1px" width="50%" border-color="#C2CFE3"></mj-divider>
+        </mj-column>
+      </mj-section>
+      <mj-section border-left="1px solid #C2CFE3" border-right="1px solid #C2CFE3" background-color="#FFF">
+        <mj-column padding-left="10%">
+          <mj-text align="center" font-size="12px" color="#09234F" line-height="20px">Souscrivez dès maintenant et profitez <span class="red"><b>d’1 mois gratuit sans engagement </b></span>puis d’une remise exclusive</mj-text>
+        </mj-column>
+        <mj-column>
+          <mj-button background-color="#F74B4B" href="#" color="#FFF">Je découvre</mj-button>
+        </mj-column>
+      </mj-section>
+      <mj-section border-left="1px solid #C2CFE3" border-right="1px solid #C2CFE3" background-color="#FFF" padding-top="0">
+        <mj-column>
+          <mj-divider border-width="1px" width="50%" border-color="#C2CFE3"></mj-divider>
+        </mj-column>
+      </mj-section>
+      <mj-section padding-top="0" border-left="1px solid #C2CFE3" border-right="1px solid #C2CFE3" border-bottom="1px solid #C2CFE3" background-color="#FFF">
+        <mj-column>
+          <mj-text  align="center" font-size="12px" color="#586D94">Bien à vous,</mj-text>
+          <mj-text  align="center" font-size="12px" color="#586D94">Vincent</mj-text>
+          <mj-text  align="center" font-size="12px" color="#586D94">L’équipe JE PILOTE, partenaire BANQUE POPULAIRE</mj-text>
+          <mj-text  align="center" font-size="10px" color="#09234F">* 100% conforme loi TVA 2018</mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section>
+        <mj-column>
+          <mj-text align="center" font-size="10px" color="#C2CFE3">Se désabonner de nos emails</mj-text>
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
+</mjml>
